@@ -181,14 +181,13 @@ section{
 }
 
 .home-sci {
-    position: absolute;
-    left: 50%;
-    transform: translateX(-50%);
-    bottom: 20rem;
     display: flex;
     justify-content: space-between;
-    width: 180px;
-}
+    align-items: center;
+    position: absolute;
+    bottom: 4rem;
+    width: 180px; 
+  }
 
 .home-sci a{
     position: relative;
